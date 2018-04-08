@@ -3,6 +3,7 @@
 创建dev分支 dev分支第一次修改readme
 dev分支执行add 不执行commit
 dev分支不执行add
+dev分支 第三次修改readme
 
 mster分支修改readme
 
